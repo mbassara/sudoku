@@ -1,0 +1,9 @@
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\obj\x86\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\obj\x86\Debug\SudokuSolver.exe
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\obj\x86\Debug\SudokuSolver.pdb
+C:\Users\Maciek\programowanie\C#\SudokuSolver\SudokuSolver\obj\x86\Debug\SudokuSolver.MainWindow.resources
